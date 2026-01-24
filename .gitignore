@@ -1,0 +1,7 @@
+.bash*
+.cshrc
+.tcshrc
+.viminfo
+.lesshst
+.wget-hsts
+.ssh/
